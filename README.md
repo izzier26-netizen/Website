@@ -1,2 +1,2 @@
 # Website
-This is my website that I need an idea for.
+Exotic places to travel 
