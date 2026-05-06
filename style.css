@@ -1,12 +1,28 @@
+
+.header {
+	background-image: url("earthheadline.png");
+	padding: 100px 0;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
 h1{
-	background-image: url("homepagebackroundheadlie.png");
+	
 	font-size:50px;
+	color: white;
+
 
 }
 .header
-{padding:20px;}
+{padding:2px;}
 
-p{
+p {
 	margin-right:150px;
 	margin-left: 150px;
+}
+
+body {
+	backround-color: blue;
+
 }
