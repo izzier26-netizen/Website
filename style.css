@@ -13,6 +13,11 @@ h1{
 	color: white;
 
 
+
+}
+
+h2 {
+	color: darkslateblue;
 }
 .header
 {padding:2px;}
@@ -37,4 +42,8 @@ body {
 	width: 100%;
 	padding: 100px 0;
 	
+}
+
+a {
+  color: seagreen;
 }
